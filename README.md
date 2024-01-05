@@ -2,7 +2,7 @@
 
 ![Masterhead](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/android_12_developer_preview.gif)
 
-<h3 align="center"> | 💻 Android Developer | 🛸 Cybersecurity Enthusiast | </h3>
+<h3 align="center">  💻 Android Developer | 🛸 Cybersecurity Enthusiast | </h3>
 <br>
 <p align="left"> <a href="https://twitter.com/DevMillimo" target="blank"><img src="https://img.shields.io/twitter/follow/DevMillimo?logo=twitter&style=for-the-badge" alt="DevMillimo" /></a> </p>
 <br> 
