@@ -29,7 +29,11 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=georgettemillimo&" alt="georgettemillimo" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=georgettemillimo&show_icons=true&locale=en&layout=compact" alt="georgettemillimo" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=georgettemillimo&show_icons=true&locale=en" alt="georgettemillimo" /></p>
+
+
 
 <br>
 <h2 align="center">🤝 Support</h2>
